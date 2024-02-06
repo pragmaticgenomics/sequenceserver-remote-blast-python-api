@@ -39,7 +39,7 @@ python example.py
 
 You can copy the code in `sequenceserver/sequenceserver_api.py` to the same directory in your project, or add this repo as a git submodule. Then you can import it and use it in your code:
 
-```
+```python
 # assuming the file is in `<project_root>/sequenceserver/sequenceserver_api.py`
 from sequenceserver.sequenceserver_api import SequenceServerApi
 import os
