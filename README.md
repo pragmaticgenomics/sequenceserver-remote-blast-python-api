@@ -1,6 +1,6 @@
 # Remote BLAST api for SequenceServer Cloud
 
-[SequenceServer Cloud][https://sequenceserver.com/cloud] provides dedicated secure servers to BLAST your data and visualize results.
+[SequenceServer Cloud](https://sequenceserver.com/cloud) provides dedicated secure servers to BLAST your data and visualize results.
 This repository provides a lightweight Python API wrapper to SequenceServer Cloud users to execute BLAST queries against DBs on their SequenceServer Cloud instance.
 
 ## Usage
@@ -11,7 +11,7 @@ You can check out the example use-cases bellow to get started.
 ### Running an example scenario
 
 Running examples requires to have a SequenceServer Cloud account.
-[Register for yours][https://sequenceserver.com/cloud] if you don't have one.
+[Register for yours](https://sequenceserver.com/cloud) if you don't have one.
 
 Your instance also requires API enabled. Please contact [SequenceServer Cloud support](https://sequenceserver.com/support) to enable it and obtain an API token.
 
